@@ -6,3 +6,5 @@ Generate .jar file of your project by:
 ```
 $ tools/bin/sbt clean compile assembly
 ```
+
+You can find Fordroid at FileResolver.scala
